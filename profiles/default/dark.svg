@@ -1,0 +1,193 @@
+
+<svg width="800" height="764" viewBox="0 0 800 764" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@600;700;800&amp;family=Teko:wght@500;600;700&amp;family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&amp;family=Fira+Code:wght@300..700&amp;family=Inter+Tight:ital,wght@0,100..900;1,100..900&amp;family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&amp;family=JetBrains+Mono:ital,wght@0,100..800;1,100..800&amp;family=Outfit:wght@100..900&amp;family=Plus+Jakarta+Sans:ital,wght@0,200..800;1,200..800&amp;family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;family=PT+Serif:ital,wght@0,400;0,700;1,400;1,700&amp;family=Roboto:ital,wght@0,100..900;1,100..900&amp;family=Space+Grotesk:wght@300..700&amp;display=swap');
+
+    * {
+      box-sizing: border-box;
+    }
+
+    text {
+      user-select: none;
+    }
+
+    .gitascii-canvas-bg {
+      fill: #0d1117;
+      transition: fill 0.3s ease;
+    }
+
+    @media (prefers-color-scheme: light) {
+      .gitascii-canvas-bg {
+        fill: #ffffff !important;
+      }
+    }
+
+    @media (prefers-color-scheme: dark) {
+      .gitascii-canvas-bg {
+        fill: #0d1117 !important;
+      }
+    }
+  </style>
+
+  <rect class="" width="800" height="764" fill="#060606" rx="0" />
+
+  
+    <g transform="translate(0, 0)" id="widget-widget_1793609494141_0">
+
+      
+      
+      <rect class="" x="0" y="0" width="800" height="90" fill="#060606" stroke="#252525" stroke-width="1" rx="0" />
+      
+      
+    <text x="24" y="44" font-family="'JetBrains Mono', monospace" font-size="28" font-weight="300" fill="#e5e5e5">zhutong196</text>
+    <text x="24" y="72" font-family="'JetBrains Mono', monospace" font-size="14" fill="#c5ff4a">@zhutong196</text>
+    
+  
+  
+    </g>
+  
+
+    <g transform="translate(32, 106)" id="widget-widget_1793609494141_1">
+
+      
+      
+      <rect class="" x="0" y="0" width="744" height="280" fill="#060606" stroke="#252525" stroke-width="1" rx="0" />
+      
+      <text x="12" y="20" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', 'JetBrains Mono', monospace" xml:space="preserve" font-size="14"><tspan fill="#3d444d">─</tspan><tspan fill="#58a6ff"> zhutong196@github </tspan><tspan fill="#3d444d">─────────────────────────────────────────────────────────────────</tspan></text>
+<text x="12" y="38" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', 'JetBrains Mono', monospace" xml:space="preserve" font-size="14"><tspan fill="#ffa657">. Uptime: </tspan><tspan fill="#484f58">.................................................</tspan><tspan fill="#c9d1d9"> 7 years, 8 months, 7 days</tspan></text>
+<text x="12" y="56" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', 'JetBrains Mono', monospace" xml:space="preserve" font-size="14"><tspan fill="#ffa657">. Location: </tspan><tspan fill="#484f58">.................................................................</tspan><tspan fill="#c9d1d9"> Beijing</tspan></text>
+<text x="12" y="74" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', 'JetBrains Mono', monospace" xml:space="preserve" font-size="14"><tspan fill="#ffa657">. Languages: </tspan><tspan fill="#484f58">..........................................</tspan><tspan fill="#c9d1d9"> Go, Shell, Python, Rust, Cuda</tspan></text>
+<text x="12" y="100" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', 'JetBrains Mono', monospace" xml:space="preserve" font-size="14"><tspan fill="#3d444d">─</tspan><tspan fill="#58a6ff"> Contact </tspan><tspan fill="#3d444d">───────────────────────────────────────────────────────────────────────────</tspan></text>
+<text x="12" y="118" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', 'JetBrains Mono', monospace" xml:space="preserve" font-size="14"><tspan fill="#ffa657">. Website: </tspan><tspan fill="#484f58">.............................</tspan><tspan fill="#c9d1d9"> https://blog.csdn.net/zhutongcloud?type=blog</tspan></text>
+<text x="12" y="136" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', 'JetBrains Mono', monospace" xml:space="preserve" font-size="14"><tspan fill="#ffa657">. GitHub: </tspan><tspan fill="#484f58">.....................................................</tspan><tspan fill="#c9d1d9"> github.com/zhutong196</tspan></text>
+<text x="12" y="162" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', 'JetBrains Mono', monospace" xml:space="preserve" font-size="14"><tspan fill="#3d444d">─</tspan><tspan fill="#58a6ff"> GitHub Stats </tspan><tspan fill="#3d444d">──────────────────────────────────────────────────────────────────────</tspan></text>
+<text x="12" y="180" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', 'JetBrains Mono', monospace" xml:space="preserve" font-size="14"><tspan fill="#ffa657">. Repos: </tspan><tspan fill="#484f58">.............................</tspan><tspan fill="#79c0ff"> 22</tspan><tspan fill="#3d444d"> | </tspan><tspan fill="#ffa657">. Stars: </tspan><tspan fill="#484f58">..............................</tspan><tspan fill="#79c0ff"> 6</tspan></text>
+<text x="12" y="198" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', 'JetBrains Mono', monospace" xml:space="preserve" font-size="14"><tspan fill="#ffa657">. Commits: </tspan><tspan fill="#484f58">...........................</tspan><tspan fill="#79c0ff"> 15</tspan><tspan fill="#3d444d"> | </tspan><tspan fill="#ffa657">. Followers: </tspan><tspan fill="#484f58">..........................</tspan><tspan fill="#79c0ff"> 2</tspan></text>
+  
+    </g>
+  
+
+    <g transform="translate(16, 402)" id="widget-widget_1793609494141_2">
+
+      
+      
+      <rect class="" x="0" y="0" width="368" height="256" fill="#060606" stroke="#252525" stroke-width="0" rx="0" />
+      
+      
+    <text x="24" y="32" font-family="'Inter Tight', sans-serif" font-size="11" font-weight="500" fill="#7a7a7a" letter-spacing="2">[ FEATURED REPOSITORIES ]</text>
+    
+      <g transform="translate(24, 50)">
+        <rect x="0" y="0" width="320" height="68" fill="#1e1e1e" rx="4" />
+        <rect x="0" y="0" width="3" height="68" fill="#c5ff4a" rx="1" />
+        <text x="12" y="20" font-family="'JetBrains Mono', monospace" font-size="12" font-weight="500" fill="#c5ff4a">script</text><text x="12" y="38" font-family="'Inter Tight', sans-serif" font-size="10" fill="#7a7a7a">Linux常用服务安装脚本、系统优化脚本</text><text x="12" y="56" font-family="'Inter Tight', sans-serif" font-size="10" fill="#c5ff4a">Shell  ★ 4  ⑂ 0  Updated Feb 17, 2023</text>
+      </g>
+      <g transform="translate(24, 126)">
+        <rect x="0" y="0" width="320" height="68" fill="#1e1e1e" rx="4" />
+        <rect x="0" y="0" width="3" height="68" fill="#c5ff4a" rx="1" />
+        <text x="12" y="20" font-family="'JetBrains Mono', monospace" font-size="12" font-weight="500" fill="#c5ff4a">networkpolicy-controller</text><text x="12" y="38" font-family="'Inter Tight', sans-serif" font-size="10" fill="#7a7a7a">实现原生kubernetes networkpolicy 控制器</text><text x="12" y="56" font-family="'Inter Tight', sans-serif" font-size="10" fill="#c5ff4a">Go  ★ 2  ⑂ 0  Updated Feb 20, 2023</text>
+      </g>
+      <g transform="translate(24, 202)">
+        <rect x="0" y="0" width="320" height="68" fill="#1e1e1e" rx="4" />
+        <rect x="0" y="0" width="3" height="68" fill="#c5ff4a" rx="1" />
+        <text x="12" y="20" font-family="'JetBrains Mono', monospace" font-size="12" font-weight="500" fill="#c5ff4a">zhutong196</text><text x="12" y="38" font-family="'Inter Tight', sans-serif" font-size="10" fill="#7a7a7a">No description.</text><text x="12" y="56" font-family="'Inter Tight', sans-serif" font-size="10" fill="#c5ff4a">★ 0  ⑂ 0  Updated Nov 2, 2026</text>
+      </g>
+  
+  
+    </g>
+  
+
+    <g transform="translate(0, 698)" id="widget-widget_1793609494141_4">
+
+      
+      
+      <rect class="" x="0" y="0" width="800" height="50" fill="#060606" stroke="#252525" stroke-width="1" rx="0" />
+      
+      
+    <rect x="0" y="0" width="800" height="50" fill="#00000000" />
+    <text x="24" y="29" font-family="'Inter Tight', sans-serif" font-size="11" font-weight="500" fill="#7a7a7a" letter-spacing="2">[ GENERATED BY GITASCII ]</text>
+    <text x="776" y="29" text-anchor="end" font-family="'JetBrains Mono', monospace" font-size="11" fill="#c5ff4a">gitascii.com/zhutong196</text>
+  
+  
+    </g>
+  
+
+    <g transform="translate(392, 578)" id="widget-widget_1793609494141_5">
+
+      
+      
+      <rect class="" x="0" y="0" width="392" height="120" fill="#060606" stroke="#252525" stroke-width="0" rx="0" />
+      
+      
+    <text x="24" y="32" font-family="'JetBrains Mono', monospace" font-size="11" font-weight="500" fill="#7a7a7a" letter-spacing="2">[ GITHUB METRICS ]</text>
+    
+        <g transform="translate(24, 48)">
+          <text x="0" y="28" font-family="'JetBrains Mono', monospace" font-size="28" font-weight="300" fill="#c5ff4a">6</text>
+          <text x="0" y="44" font-family="'JetBrains Mono', monospace" font-size="10" font-weight="500" fill="#7a7a7a" letter-spacing="1.5">STARS</text>
+        </g>
+        <g transform="translate(138.66666666666669, 48)">
+          <text x="0" y="28" font-family="'JetBrains Mono', monospace" font-size="28" font-weight="300" fill="#c5ff4a">2</text>
+          <text x="0" y="44" font-family="'JetBrains Mono', monospace" font-size="10" font-weight="500" fill="#7a7a7a" letter-spacing="1.5">FOLLOWERS</text>
+        </g>
+        <g transform="translate(253.33333333333334, 48)">
+          <text x="0" y="28" font-family="'JetBrains Mono', monospace" font-size="28" font-weight="300" fill="#c5ff4a">5</text>
+          <text x="0" y="44" font-family="'JetBrains Mono', monospace" font-size="10" font-weight="500" fill="#7a7a7a" letter-spacing="1.5">FOLLOWING</text>
+        </g>
+  
+  
+    </g>
+  
+
+    <g transform="translate(392, 418)" id="widget-widget_1793609494141_6">
+
+      
+      
+      <rect class="" x="0" y="0" width="392" height="160" fill="#060606" stroke="#252525" stroke-width="0" rx="0" />
+      
+      
+    <text x="24" y="32" font-family="'Inter Tight', sans-serif" font-size="11" font-weight="500" fill="#7a7a7a" letter-spacing="2">[ TOP LANGUAGES ]</text>
+    <rect x="24" y="52" width="99.11864406779661" height="8" fill="#00ADD8" rx="2" /><rect x="123.11864406779661" y="52" width="87.45762711864407" height="8" fill="#89e051" rx="2" /><rect x="210.5762711864407" y="52" width="64.13559322033899" height="8" fill="#c5ff4a" rx="2" /><rect x="274.7118644067797" y="52" width="58.30508474576271" height="8" fill="#c5ff4a" rx="2" /><rect x="333.0169491525424" y="52" width="34.983050847457626" height="8" fill="#3572A5" rx="2" />
+      <g transform="translate(24, 80)">
+        <circle cx="6" cy="-4" r="4" fill="#00ADD8" />
+        <text x="16" y="0" font-family="'Inter Tight', sans-serif" font-size="12" fill="#e5e5e5">Go <tspan fill="#7a7a7a">29%</tspan></text>
+      </g>
+    
+      <g transform="translate(196, 80)">
+        <circle cx="6" cy="-4" r="4" fill="#89e051" />
+        <text x="16" y="0" font-family="'Inter Tight', sans-serif" font-size="12" fill="#e5e5e5">Shell <tspan fill="#7a7a7a">25%</tspan></text>
+      </g>
+    
+      <g transform="translate(24, 104)">
+        <circle cx="6" cy="-4" r="4" fill="#c5ff4a" />
+        <text x="16" y="0" font-family="'Inter Tight', sans-serif" font-size="12" fill="#e5e5e5">Makefile <tspan fill="#7a7a7a">19%</tspan></text>
+      </g>
+    
+      <g transform="translate(196, 104)">
+        <circle cx="6" cy="-4" r="4" fill="#c5ff4a" />
+        <text x="16" y="0" font-family="'Inter Tight', sans-serif" font-size="12" fill="#e5e5e5">Dockerfile <tspan fill="#7a7a7a">17%</tspan></text>
+      </g>
+    
+      <g transform="translate(24, 128)">
+        <circle cx="6" cy="-4" r="4" fill="#3572A5" />
+        <text x="16" y="0" font-family="'Inter Tight', sans-serif" font-size="12" fill="#e5e5e5">Python <tspan fill="#7a7a7a">10%</tspan></text>
+      </g>
+    
+  
+  
+    </g>
+  
+
+    <g transform="translate(608, 5)" id="widget-widget_1793609494141_7">
+
+      
+      
+      <rect class="" x="0" y="0" width="88" height="80" fill="transparent" stroke="#252525" stroke-width="0" rx="0" />
+      
+      
+          <rect width="88" height="80" fill="#18181b" rx="4" opacity="0.6" stroke="#252525" stroke-width="1" />
+          <text x="44" y="34" text-anchor="middle" font-family="'JetBrains Mono', monospace" font-size="12" fill="#c5ff4a">📷 [ IMAGEM CUSTOMIZADA ]</text>
+          <text x="44" y="54" text-anchor="middle" font-family="'JetBrains Mono', monospace" font-size="10" fill="#71717a">Cole a URL ou faça upload no painel de propriedades</text>
+        
+  
+    </g>
+  
+</svg>
